@@ -30,7 +30,11 @@ If you want to view the deployed model, click on the following link: </br>
 
 ### Here is a sneak preview of the web app:
 
+---
+
 ![GIF](static/MLP-1.gif)
+
+---
 
 ### Walkthrough - How to test a Spam mail?
 
