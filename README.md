@@ -40,7 +40,7 @@ If you want to view the deployed model, click on the following link: </br>
 
 <img src= https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System-Public/main/static/images/Results/spam-test-2.png width="75%" alt="Spam-test-2">
 
---
+---
 
 ### 📗 Walkthrough - How do you determine if your mail is Ham mail?
 
