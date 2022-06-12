@@ -34,15 +34,17 @@ If you want to view the deployed model, click on the following link: </br>
 
 ### Walkthrough - How to test a Spam mail?
 
-<img src= https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System-Public/main/static/images/Results/spam-test-1.png width="75%" alt="Spam-test-1"> (https://spam-email-filtering-system.shehansanjula.me)
+<img src= https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System-Public/main/static/images/Results/spam-test-1.png width="75%" alt="Spam-test-1">
 
 <img src= https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System-Public/main/static/images/Results/spam-test-2.png width="75%" alt="Spam-test-2">
 
 ### Walkthrough - How to test a Ham mail?
 
-[![Ham-test-1](https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System/main/static/images/Results/ham-test-1.png?token=GHSAT0AAAAAABVNU5JWOFYOMZ7HJK47PUAEYVFRUEA "Ham-test-1")](https://spam-email-filtering-system.shehansanjula.me)
+<img src= https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System-Public/main/static/images/Results/ham-test-1.png width="75%" alt="Ham-test-1">
 
-[![Ham-test-2](https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System/main/static/images/Results/ham-test-2.png?token=GHSAT0AAAAAABVNU5JX5DLXLZYBEIZ7SXSOYVFRTWA "Ham-test-2")](https://spam-email-filtering-system.shehansanjula.me)
+<img src= https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System-Public/main/static/images/Results/ham-test-2.png width="75%" alt="Ham-test-2">
+
+<!-- [![Ham-test-2](https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System/main/static/images/Results/ham-test-2.png?token=GHSAT0AAAAAABVNU5JX5DLXLZYBEIZ7SXSOYVFRTWA "Ham-test-2")](https://spam-email-filtering-system.shehansanjula.me)  -->
 
 ## ♥️🔌Powered by 
 
