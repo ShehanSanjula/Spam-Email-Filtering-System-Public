@@ -1,6 +1,6 @@
 # Spam Detection in Email using Machine Learning 
 
-![Spam-Email-Filtering-System](https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System/main/static/images/Spam%20Detection%20in%20Email%20using%20Machine%20Learning.png?token=GHSAT0AAAAAABVBA2ESWZLEYYEUOM6V7IMGYVAOBFQ)
+![Spam-Email-Filtering-System](https://raw.githubusercontent.com/ShehanSanjula/Spam-Email-Filtering-System-Public/main/static/images/Spam%20Detection%20in%20Email%20using%20Machine%20Learning.png)
 
 As an information security analyst, email is a very important tool for communication. One important feature to ensure effective communication is spam filtering. How exactly does the spam filtering system work? Is it possible to build a more effective spam filtering system from scratch?
 
