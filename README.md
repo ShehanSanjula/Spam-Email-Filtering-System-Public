@@ -54,6 +54,6 @@ If you want to view the deployed model, click on the following link: </br>
 
 ### License
 
-![MIT](https://img.shields.io/github/license/ShehanSanjula/Spam-Email-Filtering-System?color=black)
+![MIT](https://img.shields.io/github/license/ShehanSanjula/Spam-Email-Filtering-System-Public?color=black)
 
 <!-- ![Python 3.8](https://img.shields.io/badge/Python-3.8-brightgreen.svg) -->
