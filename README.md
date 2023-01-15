@@ -21,7 +21,7 @@ As an information security analyst, email is a very important tool for communica
 
 ![](https://img.shields.io/badge/Model-Logistic_Regression-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 
-## 🖥️ Web App ![](https://img.shields.io/badge/Status-Online-informational?style=flat&logo=statuspal&logoColor=white&color=2bbc8a)
+## 🖥️ Web App ![](https://img.shields.io/badge/Status-Offline-informational?style=flat&logo=statuspal&logoColor=white&color=2bbc8a)
 If you want to view the deployed model, click on the following link: </br>
 
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://spam-email-filtering-system.shehansanjula.dev)
